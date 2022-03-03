@@ -121,6 +121,6 @@ router.put('/candidate/:id', (req, res) => {
     });
 });
 
-console.log('candidateRoutes being read');
+
 
 module.exports = router;
